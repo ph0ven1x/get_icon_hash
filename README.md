@@ -1,6 +1,6 @@
 # get_icon_hash
 
-获取图片的hash值，然后通过shando或fofa进行信息收集
+获取图标的hash值，然后通过shando或fofa进行信息收集
 
 ## Usage
 ### fofa
